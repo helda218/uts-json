@@ -4,9 +4,7 @@
 		<title>Prediksi Cuaca Jawa Barat</title>
 		<link rel="shortcut icon" href="img/icon.png"/>
 		<link href="css/index.css" rel="stylesheet" type="text/css" />
-		<style type="text/css">
-		  body {background-color: #FF0000;}
-		</style>
+		
 	</head>
 	<body >
 		<div class="menu-wrap">
